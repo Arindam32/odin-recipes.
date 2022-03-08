@@ -1,6 +1,6 @@
 h1 {
     background-color: black;
-    color: Red;
+    color: hsl(0, 100%, 30%);
     text-align: center;
     font-weight: bold;
 }
