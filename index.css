@@ -1,0 +1,10 @@
+ul {
+    background-color: black;
+    color: red;
+} 
+ul {
+    border: 20px solid red;
+    padding: 32px solid blue;
+    font-size: large; 
+    ;
+}   
